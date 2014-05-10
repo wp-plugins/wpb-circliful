@@ -1,0 +1,16 @@
+.cir_area {display: block;overflow: hidden;}
+.cir_single {float: left;width: 33.33%;}
+.cir_single > div{margin:0 auto;}
+
+/*responsive css*/
+@media only screen and (max-width: 768px) {
+.cir_single {float: inherit;width: 100%;}
+}
+
+/* Add this code in style.css */
+.dropcap {
+    float: left;
+    font-size: 80px;
+    padding-right: 7px;
+    line-height: 72px;
+}
