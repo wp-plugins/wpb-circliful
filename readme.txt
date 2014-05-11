@@ -1,5 +1,5 @@
 === WPB Circliful ===
-Contributors: WpBean
+Contributors: wpbean
 Donate link: 
 Tags: Circliful, data,show percent
 Requires at least: 3.3
