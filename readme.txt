@@ -25,7 +25,6 @@ Plugin Features
 * Very Lightweight.
 & many More
 
-Live Preview: http://demo.wpbean.com/wpb-circliful/
 
 == Installation ==
 
